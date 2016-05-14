@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "outDir": "../out/b/",
+		"moduleResolution": "node",
+        "target": "es6",
+        "sourceMap": true
+    }
+}

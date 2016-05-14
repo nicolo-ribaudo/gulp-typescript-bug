@@ -1,0 +1,13 @@
+{
+  "name": "java-parser",
+  "version": "0.1.0",
+  "description": "A java parser which generates AST",
+  "main": "out/lib/index.js",
+  "author": "Nicolò Ribaudo",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-typescript": "^2.13.4"
+  }
+}
